@@ -1,7 +1,9 @@
 <!-- 1. GitHub usernameを変更 -->
+<!--
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=kwauso" />
 </div>
+-->
 
 ## _Life is too short to be unhappy._
 <br>

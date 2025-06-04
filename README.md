@@ -5,7 +5,7 @@
 </div>
 -->
 
-## _Life is too short to be unhappy._
+## カワウソ
 <br>
 
 <!-- 2. プロフィールや連絡先を変更 -->

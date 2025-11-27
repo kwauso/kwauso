@@ -5,8 +5,10 @@
 </div>
 -->
 
-## カワウソ
-<br>
+## ☔️カワウソ☔️
+## Visit my web site: EUNOS.TECH
+
+<img src="/ascii-art-text.png">
 
 <!-- 2. プロフィールや連絡先を変更 -->
 <!--

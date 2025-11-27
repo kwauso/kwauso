@@ -5,8 +5,11 @@
 </div>
 -->
 
-## ☔️カワウソ☔️
-## Visit my web site: EUNOS.TECH
+## ☔️カワウソ☔️ 
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,ts,next,emacs,github,linux" />
+
+## Visit my web site: EUNOS.tech
 
 <img src="/ascii-art-text.png">
 
@@ -24,8 +27,8 @@
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## Interesting
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,ts,next,emacs,github,linux" />
+<!-- ## Interesting -->
+
 <br>
 
 

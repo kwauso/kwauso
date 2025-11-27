@@ -25,7 +25,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## Interesting
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,ts,next,python,emacs,github,linux" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,ts,next,emacs,github,linux" />
 <br>
 
 
